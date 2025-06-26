@@ -1,5 +1,6 @@
 //  [867 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 #include<iostream>
+using namespace std;
 class Solution {
 public:
     // Function to return the transpose of a matrix
